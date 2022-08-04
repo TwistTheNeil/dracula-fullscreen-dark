@@ -27,7 +27,7 @@
     padding: 28% 35%;
 }
 #message {
-    border:       1px dash 0px 0px ;
+    border:       1px dash 1px 0px ;
     border-color: @separatorcolor;
     padding:      1px ;
 }
@@ -44,7 +44,7 @@
 }
 #element {
     border:  0;
-    padding: 1px ;
+    padding: 10px ;
 }
 #element.normal.normal {
     background-color: @background-color;
