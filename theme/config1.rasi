@@ -109,6 +109,7 @@
 #entry {
     spacing:    0;
     text-color: @foreground;
+    //placeholder: "type to filter";
 }
 #prompt {
     spacing:    0;
