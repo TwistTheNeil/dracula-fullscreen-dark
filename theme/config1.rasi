@@ -12,6 +12,7 @@
     separatorcolor: @active-background;
     bordercolor: @active-background;
     transparent-background-color: #090909dd;
+    green: #50fa7b;    
 }
 
 #window {
@@ -111,7 +112,7 @@
 }
 #prompt {
     spacing:    0;
-    text-color: @foreground;
+    text-color: @green;
 }
 #inputbar {
     children:   [ prompt,textbox-prompt-colon,entry,case-indicator ];
